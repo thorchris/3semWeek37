@@ -1,5 +1,7 @@
 ## Week 37 Review
 
+### Day 1 & 2 assignemnts can be found on the index page linking to Git Movie Project
+
 ### Day 3 containing assignments:
 - array.js
 - demo1.js
